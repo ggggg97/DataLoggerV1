@@ -4,7 +4,7 @@ Fyp Project 2020
 # How to
 
 ##  1. Make sure your pc have installed Labview Runtime Engine 2019. If not can get installer from link below:
-        ni.com/en-my/support/downloads/software-products/download.labview.html
+        # ni.com/en-my/support/downloads/software-products/download.labview.html
         - Choose version 2019
         - Included edition is runtime
         - Click download. I recommend to choose Individual Offline Installers (under download button)

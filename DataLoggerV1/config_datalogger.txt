@@ -1,0 +1,4 @@
+Light Constant = 1.00
+Rain Constant = 1.00
+Light Sensor Mode = 3
+Rain Sensor Mode = 3
